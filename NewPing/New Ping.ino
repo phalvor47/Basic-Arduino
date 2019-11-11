@@ -16,13 +16,13 @@ void loop()
 {
 	buttonState = digitalRead(buttonPin);
 
-	myHCSR04.ping_cm(200);
+	myHCSR04.ping_cm(200); //This sets a distance limit for the sensor.
 
 	if (buttonState == HIGH and factor == LOW){
 		Serial.print(myHCSR04.ping_cm());
 		Serial.println();
 	}
-	factor = buttonState;
+	factor = buttonState; //This line of code makes it so that it only reads the distance once in a loop.
 	delay(50);
 
 }
