@@ -28,4 +28,4 @@ NewPing is an assignment that uses the NewPing library to recieve a millisecond 
 
 ### Wiring Diagram
 
-![New Ping](New_Ping/NPImage.jpg)
+![New Ping](NewPing/NPImage.jpg)
