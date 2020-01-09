@@ -1,3 +1,7 @@
+//Heming Halvorson-Taylor
+//NewPing
+//NewPing is an assignment that teaches you to use the New Ping library which helps you code an ultrasonic sensor.
+
 #include <NewPing.h>
 #define TRIGGER_PIN 12
 #define ECHO_PIN 11
