@@ -1,3 +1,7 @@
+//Heming Halvorson-Taylor
+//Hello_Functions
+//This assignmenmt teaches you to use functions which allows you to repeat chunks of code.
+
 // Include the Servo library
 #include <Servo.h>
 // Declare the Servo pin
