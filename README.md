@@ -14,7 +14,7 @@ Hello Functions is an assignment that uses functions to make a servo move in a d
 
 ### Wiring Diagram
 
-<img src="Hello_Functions/HFImage.jpg" width="500">
+<img src="Hello_Functions/NewHelloFunctions.jpg" width="500">
 
 # NewPing 
 
@@ -28,4 +28,4 @@ NewPing is an assignment that uses the NewPing library to recieve a millisecond 
 
 ### Wiring Diagram
 
-<img src="NewPing/NPImage.jpg" width="750">
+<img src="NewPing/NewNewPingFritzing.jpg" width="750">
